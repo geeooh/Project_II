@@ -1,0 +1,11 @@
+<TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0" BORDER="0">
+<TR>
+<TD WIDTH="100%">
+<div class="fixedimage">
+    <center><img src="http://www.adaptivedevelopment.com/wordpress/images/home-page-slider/all-arrows.png" /></center>
+<input type="text" id='formElement'>
+</div>    
+</div>
+</TD>
+</TR>
+</TABLE>
