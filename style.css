@@ -1,11 +1,10 @@
-.fixedimage img{
-    width:100% !important;
-    height:500px;
-    display:block;    
+.fixedimage img {
+    width:auto !important;
+    height:100%;
+    display:block;
 }
 
-#formElement
-{
+#formElement {
     position:absolute;
     top:50%;
     left:50%;
